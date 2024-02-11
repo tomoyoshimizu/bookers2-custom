@@ -1,24 +1,18 @@
-# README
+# Bookers2-custom
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 概要
+Ruby on Railsの学習課題として作成したアプリケーションに機能を追加していきます。
 
-Things you may want to cover:
+## 言語
+Ruby 3.1.2 / Rails 6.1.7.6
 
-* Ruby version
+## カリキュラム
+### DMM WEBCAMP 短期集中/専門技術コース
 
-* System dependencies
+> DMM WEBCAMP<br>
+> https://web-camp.io/
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+---
+#### 基礎知識学習フェーズver1.5
+* アプリケーションを完成させよう2
+  * 課題3「アプリケーションを作成してみよう：応用編」
